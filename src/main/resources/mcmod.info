@@ -1,0 +1,21 @@
+[
+{
+  "modid" : "themasks2020",
+  "name" : "The Masks 2020",
+  "version" : "${version}",
+  "url" : "http://ichun.me/",
+  "credits" : "iChun",
+  "authorList": [
+    "TamasHenning",
+    "iChun"
+  ],
+  "description": "Because why not? Definitely Yes",
+  "updateUrl" : "",
+  "parent" : "",
+  "screenshots": [
+  ],
+  "dependencies": [
+    "Forge"
+  ]
+}
+]
